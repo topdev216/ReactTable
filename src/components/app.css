@@ -1,0 +1,23 @@
+.title{
+    text-align: center;
+    font-size: 20px;
+}
+
+.inputbutton{
+    font-size: 20px;
+    padding: 10px 5px;
+    float:right;
+    margin-bottom: 10px;
+}
+
+.visible{
+    display:block;
+}
+
+.invisible{
+    display:none;
+}
+
+.clear{
+    clear:both;
+}
